@@ -1,5 +1,7 @@
 ## Hi there 👋
-https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"/>
+</div>
 <!--
 **JARG4444/JARG4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
